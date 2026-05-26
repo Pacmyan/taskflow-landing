@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a fictional project management SaaS, built with Next.js 16, TypeScript, and Tailwind CSS.
 
-**Live demo:** https://your-vercel-url.vercel.app
+**Live demo:** https://taskflow-landing-ten.vercel.app/
 
 ## Features
 
