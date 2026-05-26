@@ -24,7 +24,7 @@ A modern, responsive landing page for a fictional project management SaaS, built
 ## Run locally
 
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/taskflow-landing.git
+git clone https://github.com/Pacmyan/taskflow-landing.git
 cd taskflow-landing
 npm install
 npm run dev
@@ -34,4 +34,4 @@ Open http://localhost:3000
 
 ## About
 
-This is a portfolio project demonstrating modern landing page development. Available for hire — [contact me](mailto:your@email.com).
+This is a portfolio project demonstrating modern landing page development. Available for hire — [contact me](madhava.vadigi@gmail.com).
